@@ -1,0 +1,54 @@
+/* Basic styling for the form container */
+.register-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    background: linear-gradient(135deg, #ff6b6b, #8e54e9);
+    color: #fff;
+    text-align: center;
+  }
+  
+  /* Styling for the form header */
+  .register-container h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  /* Styling for form input fields */
+  .register-container input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  /* Styling for form input placeholders */
+  .register-container input::placeholder {
+    color: rgba(255, 255, 255, 0.8);
+  }
+  
+  /* Styling for form button */
+  .register-container button {
+    width: 100%;
+    padding: 12px;
+    background: linear-gradient(135deg, #8e54e9, #ff6b6b);
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+  /* Styling for form button on hover */
+  .register-container button:hover {
+    background: linear-gradient(135deg, #ff6b6b, #8e54e9);
+  }
+  
+  /* Styling for form button on focus */
+  .register-container button:focus {
+    outline: none;
+  }
+  
