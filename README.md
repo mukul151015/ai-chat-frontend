@@ -32,25 +32,17 @@ Before you begin, ensure you have the following installed on your machine:
 
 1. Clone the repository:
 
-   ```sh
    git clone https://github.com/mukul151015/ai-chat-frontend.git
-Navigate to the project directory:
+- Navigate to the project directory:
 
-sh
-Copy code
-cd ai-chat-application
-Install the required dependencies:
+- cd ai-chat-application
+- Install the required dependencies with the following command:
+- npm install
+### Usage
+- Start the development server with the following command :
 
-sh
-Copy code
-npm install
-Usage
-Start the development server:
-
-sh
-Copy code
-npm start
-Open your web browser and navigate to http://localhost:3000 to access the application.
+- npm start
+- Open your web browser and navigate to http://localhost:3000 to access the application.
 
 If you haven't registered yet, you can click on the "Register" button to create an account. Otherwise, you can log in using your credentials.
 
