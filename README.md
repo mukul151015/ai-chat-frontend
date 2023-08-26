@@ -4,20 +4,14 @@ This is a simple AI-powered chat application built using React. It allows users 
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
-## Demo
 
-![App Screenshot](./demo-screenshot.png)
 
-You can check out a live demo of the application [here](#).
 
 ## Features
 
@@ -39,7 +33,7 @@ Before you begin, ensure you have the following installed on your machine:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/ai-chat-application.git
+   git clone https://github.com/mukul151015/ai-chat-frontend.git
 Navigate to the project directory:
 
 sh
